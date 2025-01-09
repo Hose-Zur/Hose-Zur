@@ -1,4 +1,4 @@
-[Moja strona GitHub Pages](https://hose-zur.github.io)
+Moja strona GitHub Pages- (https://hose-zur.github.io)
 # Cybersecurity Enthusiast | AGH University of Science and Technology
 
 Welcome to my GitHub profile! I am a first-year cybersecurity student at **AGH University of Science and Technology**, passionate about learning and applying cybersecurity principles to protect systems and data.
